@@ -1,5 +1,6 @@
 <?php
-const BASE_URL = 'http://centbeauty-production.up.railway.app';
+//const BASE_URL = 'http://centbeauty-production.up.railway.app';
+const BASE_URL = 'http://localhost/CentBeauty';
 //const BASE_URL = 'https://CentBeauty.000webhostapp.com';
 
 
